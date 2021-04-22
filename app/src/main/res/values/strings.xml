@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="logDream">LOG A DREAM</string>
+    <string name="dreamTitle">DREAM TITLE</string>
+    <string name="whatHappened">WHAT HAPPENED?</string>
+    <string name="interpretation">WHAT IS YOUR INTERPRETATION?</string>
+    <string name="feelings">HOW DO YOU FEEL?</string>
+    <string name="save">SAVE</string>
+    <string-array name="emotions">
+        <item>fear</item>
+        <item>panic</item>
+        <item>loss of self</item>
+        <item>grief</item>
+        <item>freedom</item>
+        <item>love</item>
+        <item>joy</item>
+        <item>vulnerable</item>
+        <item>confused</item>
+        <item>sad</item>
+    </string-array>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
